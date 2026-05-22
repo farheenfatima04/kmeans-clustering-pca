@@ -5,7 +5,6 @@ from PIL import Image
 import pickle
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
-
 # Set Streamlit page configuration
 st.set_page_config(layout="wide")
 # Custom CSS to remove the top space
